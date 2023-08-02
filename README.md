@@ -29,7 +29,10 @@ Based on our data analysis we have three final recommendations.
 1. Work with one of our top studios because they have the highest gross revenues.
 2. Make movies under one of our top genres because these types of movies earn the highest ratings.
 3. Make movies that are longer than 90 minutes and aim around 120 minutes in length. These movies return the highest profits.
-#### Next Steps
+### Next Steps
 - Explore which age rating (P, PG, PG-13, R) would be best
 - Explore which actors bring in the most revenue
 - Explore which directors are best for each genre
+## For More Information
+See full analysis in the [Jupyter Notebook](https://github.com/ramses02/Movies_Phase_2/blob/main/notebook.ipynb) and review this presentation (will link pdf of the presentation once it's in our repo)
+## Repository Structure
