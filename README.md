@@ -1,11 +1,11 @@
 # Movie Analysis: What Makes a Successful Film?
 ![](https://thumbs.dreamstime.com/b/film-reel-movie-cinema-vector-film-reel-movie-107164547.jpg)
-Authors: Ramses Nestor and Ben Gilbert
+Authors: [Ramses Nestor Reis](http://www.linkedin.com/in/ramses-nestor) and [Ben Gilbert](https://www.linkedin.com/in/benjamin-gilbert333/)
 ## Overview
 This project analyzes different characteristics of films to determine what makes films more successful than others. Descriptive analysis of movie data from multiple sources shows that movies from certain studios, certain genres, and certain runtimes perfrom better than others based on profit, revenue and popularity. Movie producers can use this analysis to create movies that will perform successfully.
 ## Business Problem
 ![](https://www.grandsierraresort.com/hubfs/recreation/Grand-Sierra-Cinema-view-of-auditorium_q085_1920x1080.jpg)
-A new movie producer wants as much information on the industry before they start making films. The soon to be producer we are providing this analysis for wants to know ways that they can assure movies they make will be successful. We have been tasked with providing actionable insights that will help forge how they make movies.
+A new movie producer wants as much information on the industry before they start making films. The soon-to-be-producer wants to know ways that they can ensure movies they make will be successful. We have been tasked with providing actionable insights that will help forge how they make movies.
 ## Data Sources
 The data used for this analysis comes from four different sources and were used for these main DataFrames:
 1. [IMDB](https://www.imdb.com/) - `less_90`,`more_90`,`all_runtime`
@@ -18,10 +18,10 @@ The most important information used from these sources were movie titles, runtim
 This project uses descriptive analysis, including a two sample T-test, linear regression, and visuals derived from data. This provides useful information for why some movies are more successful than others.
 ## Results
 These are top movie studios that produce higher revenues than the rest of their counterparts:
-![](studios.png)
+![](charts_png/studios.png)
 
 These are the top movie genres based on the avergae rating they receive:
-![](genres.png)
+![](charts_png/genres.png)
 
 We ran a two sample T-test comparing movies shorter than 90 minutes and movies longer than 90 minutes. The result of our test shows that movies longer than 90 minutes return higher profits on average. Then with a linear regression model we found length of a movie explains about 19% of the popularity rating it receives. These two tests display that, to an extent, runtime dictates how popular a movie will be and the profit it will return.
 ## Conclusion
@@ -34,5 +34,4 @@ Based on our data analysis we have three final recommendations.
 - Explore which actors bring in the most revenue
 - Explore which directors are best for each genre
 ## For More Information
-See full analysis in the [Jupyter Notebook](https://github.com/ramses02/Movies_Phase_2/blob/main/notebook.ipynb) and review this presentation (will link pdf of the presentation once it's in our repo). Also, view this [Tableau Dashboart](https://public.tableau.com/app/profile/ramses.nestor.reis/viz/MoviesGraphs/Dashboard1?publish=yes).
-## Repository Structure
+See full analysis in the [Jupyter Notebook](https://github.com/ramses02/Movies_Phase_2/blob/main/notebook.ipynb) and review this presentation (will link pdf of the presentation once it's in our repo). Also, view this [Tableau Dashboard](https://public.tableau.com/app/profile/ramses.nestor.reis/viz/MoviesGraphs/Dashboard1?publish=yes).
