@@ -34,4 +34,4 @@ Based on our data analysis we have three final recommendations.
 - Explore which actors bring in the most revenue
 - Explore which directors are best for each genre
 ## For More Information
-See full analysis in the [Jupyter Notebook](https://github.com/ramses02/Movies_Phase_2/blob/main/notebook.ipynb) and review this presentation (will link pdf of the presentation once it's in our repo). Also, view this [Tableau Dashboard](https://public.tableau.com/app/profile/ramses.nestor.reis/viz/MoviesGraphs/Dashboard1?publish=yes).
+See full analysis in the [Jupyter Notebook](https://github.com/ramses02/Movies_Phase_2/blob/main/notebook.ipynb) and review this [presentation](). Also, view this [Tableau Dashboard](https://public.tableau.com/app/profile/ramses.nestor.reis/viz/MoviesGraphs/Dashboard1?publish=yes).
